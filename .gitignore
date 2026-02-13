@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude
+.claude/
+
+# Binary
+/go-callgraph-neo4j
+
+# Go
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
